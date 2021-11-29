@@ -1,0 +1,1 @@
+x=msgbox ("RIP LE PC" ,4096+16,"CASSER DES ORDI")

@@ -1,0 +1,1 @@
+x=msgbox ("RIP LE PC" ,still using ?,"hahahaha")
